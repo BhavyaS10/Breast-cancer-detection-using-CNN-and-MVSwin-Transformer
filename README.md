@@ -1,2 +1,2 @@
 # Breast-cancer-detection-using-CNN-and-MVSwin-Transformer
-Breast cancer detection using CNN and MVSwin Transformer
+This repository presents my final year undergraduate project, which proposes a hybrid deep learning framework for breast cancer classification using mammogram images. The model integrates CNN-based feature extraction with a multi-view Swin Transformer to jointly learn complementary information from ipsilateral CC and MLO views. By combining self-view and cross-view attention mechanisms, the approach captures both local texture patterns and cross-projection correlations, closely mimicking clinical radiological analysis. The system is designed to improve benign vs malignant classification performance through effective multi-view representation learning.
